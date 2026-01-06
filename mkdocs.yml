@@ -1,0 +1,6 @@
+site_name: Furretar
+theme:
+  name: material
+  
+features:
+  - content.code.copy
