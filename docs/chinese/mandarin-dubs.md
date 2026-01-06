@@ -1,5 +1,6 @@
 # Mandarin Dubs
 I upload Mandarin dubs of anime at [https://nyaa.si/user/Furretar](https://nyaa.si/user/Furretar)
+I'm at an intermediate level of Mandarin, with like 6k anki cards. I'd love to talk to anyone learning mandarin (or Japanese), so feel free to message me anytime.
 
 ## Contact
 To contact me, you can use my Discord ID (preferred): `furretar`
