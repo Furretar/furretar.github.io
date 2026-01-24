@@ -85,3 +85,4 @@ Please contact me if you find any other issues with a torrent I've uploaded.
 - Taiwan CHT subs for Demon Slayer S04E04 are a repeat of the subs for S04E03
 - Jojo s1e18 desyncs
 - Blue lock s1 subs should be traditional
+- dandadan s2 ep12 audio and subtitles desync
