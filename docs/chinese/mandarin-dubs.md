@@ -42,10 +42,11 @@ Please contact me if you would like to help source this content.
 - [Slam Dunk Mainland Dub](https://www.iqiyi.com/tvg/to_page_url?album_id=MjAyOTE4MTAx&app_version=13.124.24146&ext_params=rpage%3Dcategory_lib.1009%26block%3Dpca_list_perdoc%26rseat%3Dtitle_30%26r%3D202918101%26ps2%3D%26s2%3D%26vfrm%3Dcategory_lib.1009%26vfrmblk%3Dpca_list_perdoc%26vfrmrst%3Dtitle_30&on_record=1&timestamp=1766652828995&tv_id=MzkwMjQ0MDAw&sign=BFE45C0180F679E86F7815814CFB36C1)
 - [Slam Dunk Movie Mainland Dub](https://www.iqiyi.com/v_uh5s06s0aw.html?vfrmblk=pca_list_perdoc&r=8124837059273601&block=pca_list_perdoc&rpage=category_lib.1009&rseat=title_208&vfrm=category_lib.1009&vfrmrst=title_208 )
 #### Antoc (Requires Aliyun Drive)
-- [K-ON Season](https://www.antoc.cn/forum.php?mod=viewthread&tid=1980)
+- [K-ON Season 1](https://www.antoc.cn/forum.php?mod=viewthread&tid=1980)
 - [Cowboy Bebop](https://www.antoc.cn/forum.php?mod=viewthread&tid=3244)
 - [Kimi no suizou wo tabetai](https://www.antoc.cn/forum.php?mod=viewthread&tid=2842), [other ver](https://www.antoc.cn/forum.php?mod=viewthread&tid=3228)
 - [One Piece](https://www.antoc.cn/forum.php?mod=viewthread&tid=2127)
+- [hinomaru zumou](https://www.antoc.cn/thread-2115-1-1.html)
 #### Tencent Video
 - [Mainland naruto, orignal and shippuden](https://v.qq.com/x/cover/mzc00200s6u45af/z41011n9rb6.html)
 #### Bahamut/ani.gamer.tw (Taiwanese)
