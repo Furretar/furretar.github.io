@@ -18,6 +18,8 @@ Since Mainland China tends to focus more on domestic media, the majority of Mand
 
 Almost all Mandarin anime dubs are released with matching hard subs, but many are remuxed before I can access them on antoc. When there's a show with hard subs, I usually convert the hard subs into soft subs, then remux the audio and subtitles into a [mini encode](https://thewiki.moe/guides/quality/#mini-encode) of the Japanese version to remove the hard subs. Sometimes this requires manually timing every episode, and occasionally requires a lot of work manually splicing audio. Here is the tool I made to help with extracting hard subtitles, along with a tutorial: [https://github.com/Furretar/Hardsub-Extract-OCR](https://github.com/Furretar/Hardsub-Extract-OCR).
 
+I use mini encodes because I want to maximize shareability. The value I'm providing is in the audio and subtitles, so I want these to be as easy to download and share as possible. They can easily be remuxed into a higher quality video source if needed. Mini encodes (usually by Judas or Ember) are also almost always the most downloaded and seeded versions of an anime, meaning they're the most popular and likely to be downloaded as well. I also personally prefer smaller files for the faster download and upload speeds, and I also only have limited space on my hard drives. I store the files on two 6TB hard drives, cloned for redundancy, so I only have 6TB of capacity.
+
 All of the subtitles I make are saved at: [https://github.com/Furretar/Mandarin-Subtitles-Archive](https://github.com/Furretar/Mandarin-Subtitles-Archive).
 
 There is some more information, and another collection of mandarin dubs at 
@@ -51,6 +53,7 @@ Please contact me if you would like to help source this content.
 #### Bahamut/ani.gamer.tw (Taiwanese)
 I personally have no interest in these shows, but I might consider uploading them if I knew there was interest.
 
+- Upgrade audio on jujustu kaisen s1 and yowamishi pedal
 - 25835 all 棒球大聯盟 第二季
 - 28470 all 棒球大聯盟 第三季
 - 24663 all 棒球大聯盟 第五季
@@ -67,7 +70,7 @@ I personally have no interest in these shows, but I might consider uploading the
 - 5408 all 惡魔奶爸
 - 9660 all 隊長小翼
 - 40095 all 蠟筆小新：幽靈忍者珍風傳 
--3826 all 籃球少年王
+- 3826 all 籃球少年王
 - 24073 all Aikatsu
 - 40477 all 酷洛米的繽紛旅程
 - 40710 all 元氣媽媽
@@ -85,3 +88,5 @@ Please contact me if you find any other issues with a torrent I've uploaded.
 - Taiwan CHT subs for Demon Slayer S04E04 are a repeat of the subs for S04E03
 - Jojo s1e18 desyncs
 - Blue lock s1 subs should be traditional
+- Jojo s1-2 subs should be traditional
+- attack on titan season 3 episode 11 audio is strange
