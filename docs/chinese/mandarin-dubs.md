@@ -12,7 +12,7 @@ or my email:
 	```
 	
 ## Info
-Since Mainland China tends to focus more on domestic media, the majority of Mandarin anime dubs are actually from Taiwan. Mainland and Taiwanese Mandarin are about as similar as British and American English. There is a slight difference in accent, a few different words, and a few different pronunciations, but are mostly the same. Almost all Mainland Chinese dubs are hosted on bilibili, with the exception of some movies and a few shows. Many Taiwanese dubs I've uploaded are from [Bahamut](https://ani.gamer.com.tw/). The rest are remuxed or raw recorded TV broadcasts, with mediocre audio quality. I source these mainly from [antoc.cn](www.antoc.cn/). I have infinite credits on antoc, so contact me if you're interested in a show hosted on this site.
+Since Mainland China tends to focus more on domestic media, the majority of Mandarin anime dubs are actually from Taiwan. Mainland and Taiwanese Mandarin are about as similar as British and American English. There is a slight difference in accent, a few different words, and a few different pronunciations, but are mostly the same. Almost all Mainland Chinese dubs are hosted on bilibili, with the exception of some movies and a few shows. Many Taiwanese dubs I've uploaded are from [Bahamut](https://ani.gamer.com.tw/). The rest are remuxed or raw recorded TV broadcasts, with mediocre audio quality. I source these mainly from [antoc.cn](www.antoc.cn/).
 
 [Here](https://vocustaiwan.fandom.com/zh-tw/wiki/%E5%88%86%E9%A1%9E:%E6%97%A5%E6%9C%AC%E5%8B%95%E7%95%AB) is a comprehensive list of every anime dubbed into Taiwanese Mandarin.
 
@@ -31,8 +31,19 @@ I'm not learning Cantonese or very interested in Cantonese, so all my Cantonese 
 - CHT/CHS - Traditional Chinese/Simplified Chinese. I try to always make Taiwanese dubs have traditional subtitles and make Mainland dubs have simplified subtitles (despite the sources not always matching this).
  
 ## Plans
+
+### Planned Content
+- WIND BREAKER—防風少年— [1] https://ani.gamer.com.tw/animeVideo.php?sn=37837
+- WIND BREAKER—防風少年— Season 2 [14] https://ani.gamer.com.tw/animeVideo.php?sn=47594
+- Dandadan s2 taiwanese https://www.antoc.cn/forum.php?mod=viewthread&tid=3479
+- tondemo skill taiwanese s2 https://www.antoc.cn/forum.php?mod=viewthread&tid=3455
+- kaijuu hachi gou s2 https://www.antoc.cn/forum.php?mod=viewthread&tid=3480
+- steins gate https://www.antoc.cn/forum.php?mod=viewthread&tid=3466
+- dragon maid movie https://www.antoc.cn/forum.php?mod=viewthread&tid=3464
+- reze https://www.antoc.cn/forum.php?mod=viewthread&tid=3463
+
 ### Mandarin Dub Missing Content
-Please contact me if you would like to help source this content.
+Please contact me if you would like to help source this content. I have infinite credits on [antoc.cn](www.antoc.cn/), so contact me if you're interested in a show hosted on this site.
 
 #### Netflix (For Better Quality)
 - Hunter x Hunter
@@ -50,7 +61,7 @@ Please contact me if you would like to help source this content.
 #### Tencent Video
 - [Mainland naruto, orignal and shippuden](https://v.qq.com/x/cover/mzc00200s6u45af/z41011n9rb6.html)
 #### Bahamut/ani.gamer.tw (Taiwanese)
-I personally have no interest in these shows, but I might consider uploading them if I knew there was interest.
+I personally have no interest in these shows, but I will consider uploading them if requested.
 
 - 25835 all 棒球大聯盟 第二季
 - 28470 all 棒球大聯盟 第三季
