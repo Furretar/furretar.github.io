@@ -23,12 +23,11 @@ All of the subtitles I make are saved at: [https://github.com/Furretar/Mandarin-
 There is some more information, and another collection of mandarin dubs at 
 [Refold's Mandarin Chinese Anime Donghua Cartoons Index](https://docs.google.com/spreadsheets/u/0/d/15ePAgVgzODjoxxaxjTETXiPNlS7Kl6VqzroUJl2HNIU/htmlview#).
 
-I'm not learning Cantonese or very interested in Cantonese, so all my Cantonese content is sourced from HulK. You can contact him on the [Refold Cantonese Discord server](https://refold.la/join/), or on the [CantoCaptions discord server](https://github.com/notHulK11/CantoCaptions).
+I'm not learning Cantonese nor am I interested in Cantonese, so all my Cantonese content is sourced from HulK. You can contact him on the [Refold Cantonese Discord server](https://refold.la/join/), or on the [CantoCaptions discord server](https://github.com/notHulK11/CantoCaptions).
 
 ## Known Issues
 Please contact me if you find any other issues with a torrent I've uploaded.
 
-- Taiwan CHT subs for Demon Slayer S04E04 are a repeat of the subs for S04E03
 - Jojo s1e18 desyncs
 - Blue lock s1 subs should be traditional
 - dandadan s2 ep12 audio and subtitles desync
