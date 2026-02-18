@@ -25,42 +25,51 @@ There is some more information, and another collection of mandarin dubs at
 
 I'm not learning Cantonese or very interested in Cantonese, so all my Cantonese content is sourced from HulK. You can contact him on the [Refold Cantonese Discord server](https://refold.la/join/), or on the [CantoCaptions discord server](https://github.com/notHulK11/CantoCaptions).
 
+## Known Issues
+Please contact me if you find any other issues with a torrent I've uploaded.
+
+- Taiwan CHT subs for Demon Slayer S04E04 are a repeat of the subs for S04E03
+- Jojo s1e18 desyncs
+- Blue lock s1 subs should be traditional
+- dandadan s2 ep12 audio and subtitles desync
+
 ## Terms
 - SWC - Standard Written Chinese. Official Cantonese subtitles don't match exactly what's being spoken, and are basically translated from Cantonese into Mandarin grammar.
 - CC - Closed Captions. This means the subtitles match what's being said exactly.
 - CHT/CHS - Traditional Chinese/Simplified Chinese. I try to always make Taiwanese dubs have traditional subtitles and make Mainland dubs have simplified subtitles (despite the sources not always matching this).
  
-## Plans
 
-### Planned Content
+## Plans
 - WIND BREAKER—防風少年— [1] https://ani.gamer.com.tw/animeVideo.php?sn=37837
 - WIND BREAKER—防風少年— Season 2 [14] https://ani.gamer.com.tw/animeVideo.php?sn=47594
 - Dandadan s2 taiwanese https://www.antoc.cn/forum.php?mod=viewthread&tid=3479
 - tondemo skill taiwanese s2 https://www.antoc.cn/forum.php?mod=viewthread&tid=3455
-- kaijuu hachi gou s2 https://www.antoc.cn/forum.php?mod=viewthread&tid=3480
 - steins gate https://www.antoc.cn/forum.php?mod=viewthread&tid=3466
 - dragon maid movie https://www.antoc.cn/forum.php?mod=viewthread&tid=3464
-- reze https://www.antoc.cn/forum.php?mod=viewthread&tid=3463
+- yowamushi pedal, upgrade audio from anigamer next subscription
+- sync rest of bleach subtitles
+- sync one piece audio and matching subs to judas 1-61
 
-### Mandarin Dub Missing Content
+
+## Mandarin Dub Missing Content
 Please contact me if you would like to help source this content. I have infinite credits on [antoc.cn](www.antoc.cn/), so contact me if you're interested in a show hosted on this site.
 
-#### Netflix (For Better Quality)
+### Netflix (For Better Quality)
 - Hunter x Hunter
 - Chainsaw Man
 - JoJo no kimyou na bouken
-#### iQiYi ([Tutorial For Downloading](https://youtu.be/GWCycLCprEU))
+### iQiYi ([Tutorial For Downloading](https://youtu.be/GWCycLCprEU))
 - [Slam Dunk Mainland Dub](https://www.iqiyi.com/tvg/to_page_url?album_id=MjAyOTE4MTAx&app_version=13.124.24146&ext_params=rpage%3Dcategory_lib.1009%26block%3Dpca_list_perdoc%26rseat%3Dtitle_30%26r%3D202918101%26ps2%3D%26s2%3D%26vfrm%3Dcategory_lib.1009%26vfrmblk%3Dpca_list_perdoc%26vfrmrst%3Dtitle_30&on_record=1&timestamp=1766652828995&tv_id=MzkwMjQ0MDAw&sign=BFE45C0180F679E86F7815814CFB36C1)
 - [Slam Dunk Movie Mainland Dub](https://www.iqiyi.com/v_uh5s06s0aw.html?vfrmblk=pca_list_perdoc&r=8124837059273601&block=pca_list_perdoc&rpage=category_lib.1009&rseat=title_208&vfrm=category_lib.1009&vfrmrst=title_208 )
-#### Antoc (Requires Aliyun Drive)
+### Antoc (Requires Aliyun Drive)
 - [K-ON Season 1](https://www.antoc.cn/forum.php?mod=viewthread&tid=1980)
 - [Cowboy Bebop](https://www.antoc.cn/forum.php?mod=viewthread&tid=3244)
 - [Kimi no suizou wo tabetai](https://www.antoc.cn/forum.php?mod=viewthread&tid=2842), [other ver](https://www.antoc.cn/forum.php?mod=viewthread&tid=3228)
 - [One Piece](https://www.antoc.cn/forum.php?mod=viewthread&tid=2127)
 - [hinomaru zumou](https://www.antoc.cn/thread-2115-1-1.html)
-#### Tencent Video
+### Tencent Video
 - [Mainland naruto, orignal and shippuden](https://v.qq.com/x/cover/mzc00200s6u45af/z41011n9rb6.html)
-#### Bahamut/ani.gamer.tw (Taiwanese)
+### Bahamut/ani.gamer.tw (Taiwanese)
 I personally have no interest in these shows, but I will consider uploading them if requested.
 
 - 25835 all 棒球大聯盟 第二季
@@ -90,11 +99,3 @@ I personally have no interest in these shows, but I will consider uploading them
 - 26753 all 怪獸大戰爭超銀河傳說 The Movie 
 - 34239 all 機界戰隊全開者 VS 煌輝者 VS 前輩者 
 - 34231 all TEN·豪快者 
-
-### Known Issues
-Please contact me if you find any other issues with a torrent I've uploaded.
-
-- Taiwan CHT subs for Demon Slayer S04E04 are a repeat of the subs for S04E03
-- Jojo s1e18 desyncs
-- Blue lock s1 subs should be traditional
-- dandadan s2 ep12 audio and subtitles desync
