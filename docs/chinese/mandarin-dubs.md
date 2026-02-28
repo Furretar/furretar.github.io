@@ -97,4 +97,4 @@ I personally have no interest in these shows, but I will consider uploading them
 - 33394 all 小怪獸成長日記
 - 26753 all 怪獸大戰爭超銀河傳說 The Movie 
 - 34239 all 機界戰隊全開者 VS 煌輝者 VS 前輩者 
-- 34231 all TEN·豪快者 
+- 34231 all TEN·豪快者   
