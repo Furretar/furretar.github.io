@@ -31,6 +31,7 @@ Please contact me if you find any other issues with a torrent I've uploaded.
 - Jojo s1e18 desyncs
 - Blue lock s1 subs should be traditional
 - dandadan s2 ep12 audio and subtitles desync
+- dandadan s1 cht is simplified
 
 ## Terms
 - SWC - Standard Written Chinese. Official Cantonese subtitles don't match exactly what's being spoken, and are basically translated from Cantonese into Mandarin grammar.
@@ -51,7 +52,6 @@ Please contact me if you find any other issues with a torrent I've uploaded.
 
 
 ## Mandarin Dub Missing Content
-Please contact me if you would like to help source this content. I have infinite credits on [antoc.cn](www.antoc.cn/), so contact me if you're interested in a show hosted on this site.
 
 ### Netflix (For Better Quality)
 - Hunter x Hunter
