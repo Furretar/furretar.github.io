@@ -1,6 +1,8 @@
 # Mandarin Dubs
 I upload Mandarin dubs of anime at [https://nyaa.si/user/Furretar](https://nyaa.si/user/Furretar). My goal is to optimize my uploads for language learning.
 
+I'm at an intermediate level of Mandarin, with about 6,000 anki cards. I'd love to talk to anyone learning mandarin (or Japanese), so feel free to message me anytime.
+
 ## Contact
 To contact me, you can use my Discord ID (preferred): `furretar`
 
@@ -21,7 +23,7 @@ All of the subtitles I make are saved at: [https://github.com/Furretar/Mandarin-
 There is some more information, and another collection of mandarin dubs at 
 [Refold's Mandarin Chinese Anime Donghua Cartoons Index](https://docs.google.com/spreadsheets/u/0/d/15ePAgVgzODjoxxaxjTETXiPNlS7Kl6VqzroUJl2HNIU/htmlview#).
 
-All my Cantonese content is sourced from HulK. You can contact him on the [Refold Cantonese Discord server](https://refold.la/join/), or on the [CantoCaptions discord server](https://github.com/notHulK11/CantoCaptions).
+I'm not learning Cantonese nor am I interested in Cantonese, so all my Cantonese content is sourced from HulK. You can contact him on the [Refold Cantonese Discord server](https://refold.la/join/), or on the [CantoCaptions discord server](https://github.com/notHulK11/CantoCaptions).
 
 ## Known Issues
 Please contact me if you find any other issues with a torrent I've uploaded.
@@ -29,6 +31,7 @@ Please contact me if you find any other issues with a torrent I've uploaded.
 - Jojo s1e18 desyncs
 - Blue lock s1 subs should be traditional
 - dandadan s2 ep12 audio and subtitles desync
+- dandadan s1 cht is simplified
 
 ## Terms
 - SWC - Standard Written Chinese. Official Cantonese subtitles don't match exactly what's being spoken, and are basically translated from Cantonese into Mandarin grammar.
@@ -46,6 +49,9 @@ Please contact me if you find any other issues with a torrent I've uploaded.
 - yowamushi pedal, upgrade audio from anigamer next subscription
 - sync rest of bleach subtitles
 - sync one piece audio and matching subs to judas 1-61
+
+
+## Mandarin Dub Missing Content
 
 ### Netflix (For Better Quality)
 - Hunter x Hunter
